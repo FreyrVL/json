@@ -1,0 +1,192 @@
+[
+  {
+    "id": "TR-001",
+    "name": "Optimus Prime",
+    "description": "The noble leader of the Autobots, Optimus Prime believes in freedom and justice for all sentient beings.",
+    "age": 9000000,
+    "isActive": true,
+    "birthDate": "1984-09-17",
+    "imageUrl": "https://example.com/images/transformers/optimus-prime.jpg",
+    "faction": "Autobot",
+    "abilities": ["Leadership", "Combat Strategy", "Energon Blade"],
+    "origin": {
+      "id": "ORIG-001",
+      "title": "Transformers (2007)",
+      "type": "Movie",
+      "releaseYear": 2007,
+      "director": "Michael Bay",
+      "studio": "Paramount Pictures"
+    }
+  },
+  {
+    "id": "TR-002",
+    "name": "Bumblebee",
+    "description": "A loyal Autobot scout known for his bravery and strong bond with humans.",
+    "age": 5000000,
+    "isActive": true,
+    "birthDate": "1984-09-17",
+    "imageUrl": "https://example.com/images/transformers/bumblebee.jpg",
+    "faction": "Autobot",
+    "abilities": ["Reconnaissance", "Speed", "Plasma Cannons"],
+    "origin": {
+      "id": "ORIG-002",
+      "title": "Bumblebee",
+      "type": "Movie",
+      "releaseYear": 2018,
+      "director": "Travis Knight",
+      "studio": "Paramount Pictures"
+    }
+  },
+  {
+    "id": "TR-003",
+    "name": "Megatron",
+    "description": "The ruthless leader of the Decepticons who seeks total domination of Cybertron and beyond.",
+    "age": 10000000,
+    "isActive": false,
+    "birthDate": "1984-09-17",
+    "imageUrl": "https://example.com/images/transformers/megatron.jpg",
+    "faction": "Decepticon",
+    "abilities": ["Fusion Cannon", "Tactical Warfare", "Intimidation"],
+    "origin": {
+      "id": "ORIG-001",
+      "title": "Transformers (2007)",
+      "type": "Movie",
+      "releaseYear": 2007,
+      "director": "Michael Bay",
+      "studio": "Paramount Pictures"
+    }
+  },
+  {
+    "id": "TR-004",
+    "name": "Starscream",
+    "description": "A treacherous Decepticon second-in-command who constantly plots to overthrow Megatron.",
+    "age": 8500000,
+    "isActive": true,
+    "birthDate": "1984-09-17",
+    "imageUrl": "https://example.com/images/transformers/starscream.jpg",
+    "faction": "Decepticon",
+    "abilities": ["Flight", "Missile Barrage", "Aerial Combat"],
+    "origin": {
+      "id": "ORIG-003",
+      "title": "Transformers: Animated",
+      "type": "Series",
+      "releaseYear": 2007,
+      "director": "Matt Youngberg",
+      "studio": "Cartoon Network"
+    }
+  },
+  {
+    "id": "TR-005",
+    "name": "Ratchet",
+    "description": "The Autobot medical officer who repairs and maintains his fellow Autobots.",
+    "age": 7000000,
+    "isActive": true,
+    "birthDate": "1984-09-17",
+    "imageUrl": "https://example.com/images/transformers/ratchet.jpg",
+    "faction": "Autobot",
+    "abilities": ["Medical Repair", "Engineering", "Energy Diagnostics"],
+    "origin": {
+      "id": "ORIG-004",
+      "title": "Transformers: Prime",
+      "type": "Series",
+      "releaseYear": 2010,
+      "director": "Duane Capizzi",
+      "studio": "Hasbro Studios"
+    }
+  },
+  {
+    "id": "TR-006",
+    "name": "Soundwave",
+    "description": "A silent and highly loyal Decepticon intelligence officer.",
+    "age": 9200000,
+    "isActive": true,
+    "birthDate": "1984-09-17",
+    "imageUrl": "https://example.com/images/transformers/soundwave.jpg",
+    "faction": "Decepticon",
+    "abilities": ["Surveillance", "Signal Interception", "Minion Deployment"],
+    "origin": {
+      "id": "ORIG-004",
+      "title": "Transformers: Prime",
+      "type": "Series",
+      "releaseYear": 2010,
+      "director": "Duane Capizzi",
+      "studio": "Hasbro Studios"
+    }
+  },
+  {
+    "id": "TR-007",
+    "name": "Arcee",
+    "description": "A skilled Autobot warrior known for agility and combat precision.",
+    "age": 6000000,
+    "isActive": true,
+    "birthDate": "1986-02-01",
+    "imageUrl": "https://example.com/images/transformers/arcee.jpg",
+    "faction": "Autobot",
+    "abilities": ["Agility", "Dual Blades", "Stealth"],
+    "origin": {
+      "id": "ORIG-004",
+      "title": "Transformers: Prime",
+      "type": "Series",
+      "releaseYear": 2010,
+      "director": "Duane Capizzi",
+      "studio": "Hasbro Studios"
+    }
+  },
+  {
+    "id": "TR-008",
+    "name": "Shockwave",
+    "description": "A cold, logical Decepticon scientist who values efficiency above all else.",
+    "age": 11000000,
+    "isActive": false,
+    "birthDate": "1985-10-01",
+    "imageUrl": "https://example.com/images/transformers/shockwave.jpg",
+    "faction": "Decepticon",
+    "abilities": ["Scientific Analysis", "Energy Weaponry", "Strategic Planning"],
+    "origin": {
+      "id": "ORIG-005",
+      "title": "Transformers: Dark of the Moon",
+      "type": "Movie",
+      "releaseYear": 2011,
+      "director": "Michael Bay",
+      "studio": "Paramount Pictures"
+    }
+  },
+  {
+    "id": "TR-009",
+    "name": "Ironhide",
+    "description": "The Autobot weapons specialist with a tough exterior and strong loyalty.",
+    "age": 8000000,
+    "isActive": false,
+    "birthDate": "1984-09-17",
+    "imageUrl": "https://example.com/images/transformers/ironhide.jpg",
+    "faction": "Autobot",
+    "abilities": ["Heavy Artillery", "Defense", "Combat Endurance"],
+    "origin": {
+      "id": "ORIG-001",
+      "title": "Transformers (2007)",
+      "type": "Movie",
+      "releaseYear": 2007,
+      "director": "Michael Bay",
+      "studio": "Paramount Pictures"
+    }
+  },
+  {
+    "id": "TR-010",
+    "name": "Grimlock",
+    "description": "The powerful and fierce Dinobot leader who values strength above all.",
+    "age": 7500000,
+    "isActive": true,
+    "birthDate": "2014-06-27",
+    "imageUrl": "https://example.com/images/transformers/grimlock.jpg",
+    "faction": "Autobot",
+    "abilities": ["Extreme Strength", "Fire Breath", "Dinobot Transformation"],
+    "origin": {
+      "id": "ORIG-006",
+      "title": "Transformers: Age of Extinction",
+      "type": "Movie",
+      "releaseYear": 2014,
+      "director": "Michael Bay",
+      "studio": "Paramount Pictures"
+    }
+  }
+]

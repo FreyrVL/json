@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ORIG-001",
+    "title": "Transformers (2007)",
+    "type": "Movie",
+    "releaseYear": 2007,
+    "director": "Michael Bay",
+    "studio": "Paramount Pictures"
+  },
+  {
+    "id": "ORIG-002",
+    "title": "Bumblebee",
+    "type": "Movie",
+    "releaseYear": 2018,
+    "director": "Travis Knight",
+    "studio": "Paramount Pictures"
+  },
+  {
+    "id": "ORIG-003",
+    "title": "Transformers: Animated",
+    "type": "Series",
+    "releaseYear": 2007,
+    "director": "Matt Youngberg",
+    "studio": "Cartoon Network"
+  },
+  {
+    "id": "ORIG-004",
+    "title": "Transformers: Prime",
+    "type": "Series",
+    "releaseYear": 2010,
+    "director": "Duane Capizzi",
+    "studio": "Hasbro Studios"
+  },
+  {
+    "id": "ORIG-005",
+    "title": "Transformers: Dark of the Moon",
+    "type": "Movie",
+    "releaseYear": 2011,
+    "director": "Michael Bay",
+    "studio": "Paramount Pictures"
+  },
+  {
+    "id": "ORIG-006",
+    "title": "Transformers: Age of Extinction",
+    "type": "Movie",
+    "releaseYear": 2014,
+    "director": "Michael Bay",
+    "studio": "Paramount Pictures"
+  }
+]
