@@ -6,7 +6,8 @@
     "age": 9000000,
     "isActive": true,
     "birthDate": "1984-09-17",
-    "imageUrl": "https://example.com/images/transformers/optimus-prime.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/FreyrVL/json/main/images/optimus_prime.jpg",
+    "imageCredit": "MathKnight, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons",
     "faction": "Autobot",
     "abilities": ["Leadership", "Combat Strategy", "Energon Blade"],
     "origin": {
@@ -25,7 +26,8 @@
     "age": 5000000,
     "isActive": true,
     "birthDate": "1984-09-17",
-    "imageUrl": "https://example.com/images/transformers/bumblebee.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/FreyrVL/json/main/images/bumblebee.jpg",
+    "imageCredit": "Rjcastillo, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
     "faction": "Autobot",
     "abilities": ["Reconnaissance", "Speed", "Plasma Cannons"],
     "origin": {
@@ -44,7 +46,8 @@
     "age": 10000000,
     "isActive": false,
     "birthDate": "1984-09-17",
-    "imageUrl": "https://example.com/images/transformers/megatron.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/FreyrVL/json/main/images/megatron.jpg",
+    "imageCredit": "Cory Denton, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
     "faction": "Decepticon",
     "abilities": ["Fusion Cannon", "Tactical Warfare", "Intimidation"],
     "origin": {
@@ -63,7 +66,8 @@
     "age": 8500000,
     "isActive": true,
     "birthDate": "1984-09-17",
-    "imageUrl": "https://example.com/images/transformers/starscream.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Anime_Expo_2010_-_Starscream_Cosplay.jpg",
+    "imageCredit": "William Tung, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
     "faction": "Decepticon",
     "abilities": ["Flight", "Missile Barrage", "Aerial Combat"],
     "origin": {
@@ -82,7 +86,8 @@
     "age": 7000000,
     "isActive": true,
     "birthDate": "1984-09-17",
-    "imageUrl": "https://example.com/images/transformers/ratchet.jpg",
+    "imageUrl": "https://flic.kr/p/3Khq2u",
+    "imageCredit": "Gustavo Vargas, CC BY-NC-SA 2.0",
     "faction": "Autobot",
     "abilities": ["Medical Repair", "Engineering", "Energy Diagnostics"],
     "origin": {
@@ -101,7 +106,8 @@
     "age": 9200000,
     "isActive": true,
     "birthDate": "1984-09-17",
-    "imageUrl": "https://example.com/images/transformers/soundwave.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/WW_Chicago_2015_-_Soundwave_%2820427772353%29.jpg",
+    "imageCredit": "GabboT, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
     "faction": "Decepticon",
     "abilities": ["Surveillance", "Signal Interception", "Minion Deployment"],
     "origin": {
@@ -120,7 +126,8 @@
     "age": 6000000,
     "isActive": true,
     "birthDate": "1986-02-01",
-    "imageUrl": "https://example.com/images/transformers/arcee.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Arcee_Cosplayer_at_Anime_Expo_2009.jpg",
+    "imageCredit": "William Tung, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
     "faction": "Autobot",
     "abilities": ["Agility", "Dual Blades", "Stealth"],
     "origin": {
@@ -139,7 +146,8 @@
     "age": 11000000,
     "isActive": false,
     "birthDate": "1985-10-01",
-    "imageUrl": "https://example.com/images/transformers/shockwave.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/BotCon_2011_-_Transformers_cosplay_-_Shockwave_%285802629604%29.jpg",
+    "imageCredit": "The Conmunity -  Pop Culture Geek from Los Angeles, CA, USA, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
     "faction": "Decepticon",
     "abilities": ["Scientific Analysis", "Energy Weaponry", "Strategic Planning"],
     "origin": {
@@ -158,7 +166,8 @@
     "age": 8000000,
     "isActive": false,
     "birthDate": "1984-09-17",
-    "imageUrl": "https://example.com/images/transformers/ironhide.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/BotCon_2010_-_Ironhide_Cosplayer.jpg",
+    "imageCredit": "Rod Herrea, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
     "faction": "Autobot",
     "abilities": ["Heavy Artillery", "Defense", "Combat Endurance"],
     "origin": {
@@ -177,7 +186,8 @@
     "age": 7500000,
     "isActive": true,
     "birthDate": "2014-06-27",
-    "imageUrl": "https://example.com/images/transformers/grimlock.jpg",
+    "imageUrl": "https://flic.kr/p/qBPET6",
+    "imageCredit": "Transformers Grimlock Voyager - Transformers Generations Fall of Cybertron - modo alterno by CC BY-NC-SA 2.0",
     "faction": "Autobot",
     "abilities": ["Extreme Strength", "Fire Breath", "Dinobot Transformation"],
     "origin": {
