@@ -2,6 +2,7 @@
   {
     "id": "ORIG-001",
     "title": "Transformers (2007)",
+    "description": "Humanity becomes caught in a war between the heroic Autobots and the evil Decepticons after a teenager discovers a powerful alien artifact tied to Earth’s fate.",
     "type": "Movie",
     "releaseYear": 2007,
     "director": "Michael Bay",
@@ -12,6 +13,7 @@
   {
     "id": "ORIG-002",
     "title": "Bumblebee",
+    "description": "On the run from Cybertron’s war, Bumblebee finds refuge on Earth and forms a heartfelt friendship with a teenage girl while protecting the planet from new threats.",
     "type": "Movie",
     "releaseYear": 2018,
     "director": "Travis Knight",
@@ -22,6 +24,7 @@
   {
     "id": "ORIG-003",
     "title": "Transformers: Animated",
+    "description": "A younger, more comedic take on the Transformers universe where Optimus Prime and his small Autobot team defend Detroit from Megatron and other Decepticons.",
     "type": "Series",
     "releaseYear": 2007,
     "director": "Matt Youngberg",
@@ -32,6 +35,7 @@
   {
     "id": "ORIG-004",
     "title": "Transformers: Prime",
+    "description": "Optimus Prime leads the Autobots in a darker, action-packed battle against Megatron while secretly protecting Earth alongside a group of human allies.",
     "type": "Series",
     "releaseYear": 2010,
     "director": "Duane Capizzi",
@@ -42,6 +46,7 @@
   {
     "id": "ORIG-005",
     "title": "Transformers: Dark of the Moon",
+    "description": "The Autobots uncover a hidden Cybertronian secret linked to the Moon landing, sparking a global conflict that threatens humanity’s survival.",
     "type": "Movie",
     "releaseYear": 2011,
     "director": "Michael Bay",
@@ -52,6 +57,7 @@
   {
     "id": "ORIG-006",
     "title": "Transformers: Age of Extinction",
+    "description": "Years after Chicago’s destruction, a mechanic and his daughter become entangled in a new conflict involving hunted Autobots, human conspiracies, and the powerful Dinobots.",
     "type": "Movie",
     "releaseYear": 2014,
     "director": "Michael Bay",
