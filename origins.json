@@ -5,7 +5,9 @@
     "type": "Movie",
     "releaseYear": 2007,
     "director": "Michael Bay",
-    "studio": "Paramount Pictures"
+    "studio": "Paramount Pictures",
+    "imageUrl": "https://i.ibb.co/bgF5WB1F/transformers2007.png",
+    "imageCredit": "Generated using ChatGPT"
   },
   {
     "id": "ORIG-002",
@@ -13,7 +15,9 @@
     "type": "Movie",
     "releaseYear": 2018,
     "director": "Travis Knight",
-    "studio": "Paramount Pictures"
+    "studio": "Paramount Pictures",
+    "imageUrl": "https://i.ibb.co/S7ZLVYW4/bumblebee.png",
+    "imageCredit": "Generated using ChatGPT"
   },
   {
     "id": "ORIG-003",
@@ -21,7 +25,9 @@
     "type": "Series",
     "releaseYear": 2007,
     "director": "Matt Youngberg",
-    "studio": "Cartoon Network"
+    "studio": "Cartoon Network",
+    "imageUrl": "https://i.ibb.co/ynGzPV4L/transformersanimated.png",
+    "imageCredit": "Generated using ChatGPT"
   },
   {
     "id": "ORIG-004",
@@ -29,7 +35,9 @@
     "type": "Series",
     "releaseYear": 2010,
     "director": "Duane Capizzi",
-    "studio": "Hasbro Studios"
+    "studio": "Hasbro Studios",
+    "imageUrl": "https://i.ibb.co/bg9dxNFB/transformersprime.png",
+    "imageCredit": "Generated using ChatGPT"
   },
   {
     "id": "ORIG-005",
@@ -37,7 +45,9 @@
     "type": "Movie",
     "releaseYear": 2011,
     "director": "Michael Bay",
-    "studio": "Paramount Pictures"
+    "studio": "Paramount Pictures",
+    "imageUrl": "https://i.ibb.co/Q3nLMGbZ/transformersdarkofthemoon.png",
+    "imageCredit": "Generated using ChatGPT"
   },
   {
     "id": "ORIG-006",
@@ -45,6 +55,8 @@
     "type": "Movie",
     "releaseYear": 2014,
     "director": "Michael Bay",
-    "studio": "Paramount Pictures"
+    "studio": "Paramount Pictures",
+    "imageUrl": "https://i.ibb.co/8JMCTDF/transformersageofextinction.png",
+    "imageCredit": "Generated using ChatGPT"
   }
 ]
